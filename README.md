@@ -1,6 +1,8 @@
 Rhaboo
 ======
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/rhaboo.svg)](https://greenkeeper.io/)
+
 <img src="logo.png" width="150px;"/>
 
 Website at http://rhaboo.org
